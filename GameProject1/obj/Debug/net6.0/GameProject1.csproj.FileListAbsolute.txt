@@ -1,0 +1,15 @@
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.csproj.AssemblyReference.cache
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.AssemblyInfoInputs.cache
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.AssemblyInfo.cs
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.csproj.CoreCompileInputs.cache
+C:\Users\monem\source\repos\GameProject1\GameProject1\bin\Debug\net6.0\GameProject1.exe
+C:\Users\monem\source\repos\GameProject1\GameProject1\bin\Debug\net6.0\GameProject1.deps.json
+C:\Users\monem\source\repos\GameProject1\GameProject1\bin\Debug\net6.0\GameProject1.runtimeconfig.json
+C:\Users\monem\source\repos\GameProject1\GameProject1\bin\Debug\net6.0\GameProject1.dll
+C:\Users\monem\source\repos\GameProject1\GameProject1\bin\Debug\net6.0\GameProject1.pdb
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.dll
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\refint\GameProject1.dll
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.pdb
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\GameProject1.genruntimeconfig.cache
+C:\Users\monem\source\repos\GameProject1\GameProject1\obj\Debug\net6.0\ref\GameProject1.dll
